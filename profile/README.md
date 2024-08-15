@@ -28,18 +28,23 @@ Most of the endpoints require authorization so it's a good idea to use the defau
 The mobile application is available (for the moment) only for the Android operating system. This does not mean, however, that the project will not be expanded to include support for IOS in future, Rome wasn't built in a day. The app's UI was written based on Jetpack compose technology, which means fast writing of a beautiful-looking user interface. The app supports android sdk version 26 (Android 8.0). The application was written based on MVVM architecture.
 
 ## Contributors
-<!-- readme: contributors -start -->
-<table>
-	<tbody>
-		<tr>
-            <td align="center">
-                <a href="https://github.com/Mroxny">
-                    <img src="https://avatars.githubusercontent.com/u/50219282?v=4" width="100;" alt="Mroxny"/>
-                    <br />
-                    <sub><b>Maciej Mrozek</b></sub>
-                </a>
-            </td>
-		</tr>
-	<tbody>
-</table>
-<!-- readme: contributors -end -->
+
+### Backend
+<a href="https://github.com/Reservant-inc/reservant-backend/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Reservant-inc/reservant-backend" />
+</a>
+
+### Frontend
+<a href="https://github.com/Reservant-inc/reservant-frontend/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Reservant-inc/reservant-frontend" />
+</a>
+
+### Mobile
+<a href="https://github.com/Reservant-inc/reservant-mobile/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Reservant-inc/reservant-mobile" />
+</a>
+
+### Tests
+<a href="https://github.com/Reservant-inc/reservant-tests/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Reservant-inc/reservant-tests" />
+</a>
