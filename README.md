@@ -29,4 +29,17 @@ The mobile application is available (for the moment) only for the Android operat
 
 ## Contributors
 <!-- readme: contributors -start -->
+<table>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/Mroxny">
+                    <img src="https://avatars.githubusercontent.com/u/50219282?v=4" width="100;" alt="Mroxny"/>
+                    <br />
+                    <sub><b>Maciej Mrozek</b></sub>
+                </a>
+            </td>
+		</tr>
+	<tbody>
+</table>
 <!-- readme: contributors -end -->
