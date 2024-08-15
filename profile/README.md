@@ -25,7 +25,7 @@ Most of the endpoints require authorization so it's a good idea to use the defau
 * execute the `docker compose up` command.
 
 ## Mobile App
-The mobile application is available (for the moment) only for the Android operating system. This does not mean, however, that the project will not be expanded to include support for IOS in future, Rome wasn't built in a day. The app's UI was written based on Jetpack compose technology, which means fast writing of a beautiful-looking user interface. The app supports android sdk version 26 (Android 8.0). The application was written based on MVVM architecture.
+[The mobile application](https://github.com/Reservant-inc/reservant-mobile) is available (for the moment) only for the Android operating system. This does not mean, however, that the project will not be expanded to include support for IOS in future, Rome wasn't built in a day. The app's UI was written based on Jetpack compose technology, which means fast writing of a beautiful-looking user interface. The app supports android sdk version 26 (Android 8.0). The application was written based on MVVM architecture.
 
 ## Contributors
 
