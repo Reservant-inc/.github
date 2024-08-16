@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img alt="reservant" height="128" src="./.github/resources/reservant_logo.png">
+  <img alt="reservant" height="128" src="../.github/resources/reservant_logo.png">
   <h1 align="center">Reservant</h1>
   <p align="center">Easy-to-use platform for restaurants</p>
 </p> 
